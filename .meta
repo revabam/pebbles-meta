@@ -1,6 +1,6 @@
 {
   "projects": {
-    "pebbles-discovery": "http://github.com/revabam/pebbles-config",
+    "pebbles-discovery": "http://github.com/revabam/pebbles-discovery",
     "pebbles-gateway": "http://github.com/revabam/pebbles-gateway",
     "pebbles-config": "http://github.com/revabam/pebbles-config",
     "pebbles-curriculum": "http://github.com/revabam/pebbles-curriculum",
