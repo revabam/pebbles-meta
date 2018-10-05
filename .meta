@@ -5,7 +5,6 @@
     "pebbles-config": "http://github.com/revabam/pebbles-config",
     "pebbles-curriculum": "http://github.com/revabam/pebbles-curriculum",
     "pebbles-calendar": "http://github.com/revabam/pebbles-calendar",
-    "pebbles-user": "http://github.com/revabam/pebbles-user",
     "pebbles-batch": "http://github.com/revabam/pebbles-batch"
   }
 }
